@@ -26,7 +26,7 @@
 
 ## Вывод
 
-Лачшая модель RandomForestClassifier
+Лучшая модель RandomForestClassifier
 Оптимальные гиперпараметры:
 - n_estimators=10
 - max_depth=8
